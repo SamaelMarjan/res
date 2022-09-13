@@ -1,15 +1,10 @@
 import React from 'react';
-
-import Header from './components/Header/Header';
-import Nav from './components/Header/Nav';
-import Footer from './components/Footer/Footer';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Nav />
-      <Footer />
+      <Navbar />
     </div>
   );
 }
