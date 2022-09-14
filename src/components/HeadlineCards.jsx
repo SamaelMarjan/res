@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const HeadlineCards = () => {
   return (
@@ -39,4 +39,4 @@ const HeadlineCards = () => {
   )
 }
 
-export default HeadlineCards
+export default HeadlineCards;
